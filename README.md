@@ -11,7 +11,7 @@ I am **Kasaija Kenneth** a Full-Stack Developer from Kampala, Uganda
 - :telescope: I’m  I’m looking to collaborate on JavaScript, React and Ruby on Rails Project
 - 💬 Ask me about Web Development
 - :zap: In my free time, I solve problems on Hack Ranks and read tech articles.
-- :mailbox:How to reach me:   <span><a href="https://twitter.com/@kenn_ug" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://linkedin.com/in/kenneth-k-310722234" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+- :mailbox:How to reach me:   <span><a href="https://twitter.com/@kenn_ug" target="_blank"><img alt="Twitter" src="[https://img.shields.io/badge/-%231DA1F2.svg?](https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg)" /></a> <a href="https://linkedin.com/in/kenneth-k-310722234" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </span>
 
 ### :hammer_and_wrench: Languages and Tools :
