@@ -31,8 +31,8 @@ I am **Kasaija Kenneth** a Full-Stack Developer from Kampala, Uganda
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
 
 </p>
-
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kasaija-Kenneth)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kasaija-Kenneth)](https://github.com/anuraghazra/github-readme-stats)
 
