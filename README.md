@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, welcome to my page...</h1>
 <h4 align="center">I am Kasaija Kenneth a Full-Stack Developer from Kampala, Uganda</h4>
 <p align="center"><a href="https://deluxe-stardust-d7eca6.netlify.app" target="_blank">Portfolio</a></p>
-### 👨‍🦲_technologist: <span align="center">About Me</span>
+### :man_technologist: <span align="center">About Me</span>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
