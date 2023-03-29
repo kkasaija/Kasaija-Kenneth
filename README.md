@@ -1,6 +1,6 @@
 ## Hi there 👋, welcome to my page...
 I am **Kasaija Kenneth** a Full-Stack Developer from Kampala, Uganda
-### <a href="https://deluxe-stardust-d7eca6.netlify.app" target="_blank">Portfolio</a>
+### <a href="https://deluxe-stardust-d7eca6.netlify.app" target="_blank" align="center">Portfolio</a>
 ### <h1 align="center">About Me</h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
