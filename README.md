@@ -11,10 +11,9 @@ I am **Kasaija Kenneth** a Full-Stack Developer from Kampala, Uganda
 - 🌱 I’m  I’m looking to collaborate on JavaScript, React and Ruby on Rails Project
 - 💬 Ask me about Web Development
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 - :mailbox:How to reach me:
-<p><a href="https://twitter.com/@kenn_ug" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://linkedin.com/in/kenneth-k-310722234" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/Kasaija-Kenneth" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-</p>
+<span><a href="https://twitter.com/@kenn_ug" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://linkedin.com/in/kenneth-k-310722234" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/Kasaija-Kenneth" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+</span>
 
 <h3>Areas of specialization</h3>
 <p>
