@@ -10,7 +10,7 @@ I am **Kasaija Kenneth** a Full-Stack Developer from Kampala, Uganda
 - 💬 Ask me about Web Development
 
 <h3>Areas of specialization</h3>
-<p>
+<p align="center">
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-43853d?style=flat-square&logo=eslint&logoColor=white" />
