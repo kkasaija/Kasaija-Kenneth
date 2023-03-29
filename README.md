@@ -34,4 +34,5 @@ I am **Kasaija Kenneth** a Full-Stack Developer from Kampala, Uganda
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kasaija-Kenneth)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kasaija-Kenneth)](https://github.com/anuraghazra/github-readme-stats)
 
