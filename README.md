@@ -2,9 +2,8 @@
 I am **Kasaija Kenneth** a Full-Stack Developer from Kampala, Uganda
 ### <a href="https://deluxe-stardust-d7eca6.netlify.app" target="_blank">Portfolio</a>
 ### About Me
-- 🌱 I’m currently learning Full Stack Development at Microverse.
-- 👯 I’m looking for a software development opportunity.
-- 👯 I’m also looking for an opportunity to collaborate on open source projects.
+- 🌱 I’m  I’m looking to collaborate on JavaScript, React and Ruby on Rails Project
+- 💬 Ask me about Web Development
 
 <h3>Areas of specialization</h3>
 <p>
