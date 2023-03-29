@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋, welcome to my page...</h1>
-<h4 align="center">I am Kasaija Kenneth a Full-Stack Developer from Kampala, Uganda</h4>
-<p align="center"><a href="https://deluxe-stardust-d7eca6.netlify.app" target="_blank">Portfolio</a></p>
-### :man_technologist: <span align="center">About Me</span>
+### Hi there 👋, welcome to my page...
+I am **Kasaija Kenneth** a Full-Stack Developer from Kampala, Uganda
+🔗 <a href="https://deluxe-stardust-d7eca6.netlify.app" target="_blank">Portfolio</a>
+## :man_technologist: :About Me
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -9,8 +9,8 @@
 - 🌱 I’m  I’m looking to collaborate on JavaScript, React and Ruby on Rails Project
 - 💬 Ask me about Web Development
 
-<h3 align="center">Areas of specialization</h3>
-<p align="center">
+<h3>Areas of specialization</h3>
+<p>
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-43853d?style=flat-square&logo=eslint&logoColor=white" />
@@ -27,8 +27,8 @@
 
 </p>
 
-<h3 align="center">How to reach me: </h3>
-<p align="center"><a href="https://twitter.com/@kenn_ug" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://linkedin.com/in/kenneth-k-310722234" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/Kasaija-Kenneth" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+<h3>How to reach me: </h3>
+<p><a href="https://twitter.com/@kenn_ug" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://linkedin.com/in/kenneth-k-310722234" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/Kasaija-Kenneth" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 </p>
 
 
