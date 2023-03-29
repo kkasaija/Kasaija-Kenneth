@@ -14,6 +14,8 @@ I am **Kasaija Kenneth** a Full-Stack Developer from Kampala, Uganda
 - :mailbox:How to reach me:   <span><a href="https://twitter.com/@kenn_ug" target="_blank"><img alt="Twitter" src="[https://img.shields.io/badge/twitter-%231DA1F2.svg?](https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg)" /></a> <a href="https://linkedin.com/in/kenneth-k-310722234" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </span>
 
+https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fkenn_ug%2F
+
 ### :hammer_and_wrench: Languages and Tools :
 <p>
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
